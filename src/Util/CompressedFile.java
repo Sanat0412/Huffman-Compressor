@@ -29,7 +29,6 @@ This is the class whose object will be serialized as a compressed(output) file.
             this.message = message;
             this.length = length;
         }
-
         public BiMap<Character, String> getHuffmanTable() {
             return this.huffmanTable;
         }
