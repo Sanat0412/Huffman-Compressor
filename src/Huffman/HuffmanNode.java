@@ -26,7 +26,6 @@ class HuffmanNode implements Comparable<HuffmanNode> {
         this.left = left;
         this.right = right;
     }
-
     @Override
     public int compareTo(HuffmanNode other) {
         return this.frequency - other.frequency;
