@@ -41,5 +41,3 @@ This is the class whose object will be serialized as a compressed(output) file.
             return this.length;
         }
     }
-
-

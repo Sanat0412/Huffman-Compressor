@@ -19,7 +19,6 @@ Consists of all the methods required in order to create Huffman table.
 This class uses a Bidirectional-map in order to represent Huffman table
 which can be used for both encoding and decoding purposes.
  */
-
 public class HuffmanTable {
     // Takes message as input, processes it to create huffman table and then return the table
     public static BiMap<Character, String> makeTable(String message) {

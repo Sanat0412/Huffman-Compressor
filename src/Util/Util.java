@@ -12,7 +12,6 @@ import java.io.*;
 /*
 Utility class with methods to save,retrieve,compress and decompress messages.
  */
-
 public class Util {
 
     // Serializes object of CompressedFile and saves it to the specified path

@@ -14,7 +14,6 @@ import java.io.FileWriter;
 /*
 Contains methods to interact with files.
  */
-
 public class IO {
     // Inputs path of the file and returns the content of the file as string
     public static String read(String path) {
