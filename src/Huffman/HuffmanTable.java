@@ -15,7 +15,6 @@ import java.util.PriorityQueue;
 
 /*
 Consists of all the methods required in order to create Huffman table.
-
 This class uses a Bidirectional-map in order to represent Huffman table
 which can be used for both encoding and decoding purposes.
  */
